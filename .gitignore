@@ -1,0 +1,19 @@
+# --- Jekyll & Build ---
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# --- Ruby & Bundler ---
+.bundle/
+vendor/
+Gemfile.lock
+
+# --- Système & IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log

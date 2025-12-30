@@ -1,0 +1,16 @@
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+title: "Portfolio"
+description: "Welcome on my portfolio"
+
+author:
+  name: "Romain"
+  bio: "FPGA engineer"
+  avatar: "/assets/images/folio_picture.jpeg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RomainPlmg"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://fr.linkedin.com/in/romain-plumaugat-a131a21a2"
